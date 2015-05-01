@@ -1,0 +1,9 @@
+b3dc1778a74285d8fb96c28e692c1e5b *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+79d417ae8e3964e62173deca44a6f8b7 *R/fit.mixtNB.R
+b5fd9e305722f1ea51025aa8c01389cb *R/wald.test.R
+5d35bfa72fb11160f79bee860d5fe160 *man/filter.em.Rd
+8b8cbc66de18f89246829bfa2134ea8e *man/fit.mixtNB.Rd
+29bb18be44c986eb635d94f0d1e601f0 *man/fun.a.Rd
+4e351988bcad1e529f55a31626b3e35e *man/mixtNB-package.Rd
+ebbf2d26c42b48f94eb2fc39f2373916 *man/wald.test.Rd
